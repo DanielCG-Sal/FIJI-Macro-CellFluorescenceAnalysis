@@ -114,6 +114,12 @@ Both files are saved in the selected general folder.
 
 ---
 
+## Author
+
+Developed by Jorge Valero, Ana Hernández García and Daniel Cañada García
+
+---
+
 ## License
 
 Both macros are released under the **GNU General Public License v3.0**. See [gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt) for details.
